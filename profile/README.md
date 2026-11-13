@@ -164,7 +164,7 @@ The PostgreSQL schema spans **37 tables across 14 logical domains**, built with 
 
 ### Workspace Dashboard
 <p align="center">
-  <img src="docs/screenshots/dashboard.png" alt="Dashboard page" width="85%">
+  <img src="docs/images/dashboard.png" alt="Dashboard page" width="85%">
   <br><em>Organization security posture, severity distribution, and recent scan activity at a glance.</em>
 </p>
 
@@ -173,27 +173,27 @@ The PostgreSQL schema spans **37 tables across 14 logical domains**, built with 
 <br>
 
 <p align="center">
-  <img src="docs/screenshots/asset-target-management.png" alt="Asset and Target Management page" width="85%">
+  <img src="docs/images/asset-target-management.png" alt="Asset and Target Management page" width="85%">
   <br><em>Asset &amp; Target Management</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/launch-scan-step1-target-info.png" alt="Launch Scan step 1 - Target Info" width="85%">
+  <img src="docs/images/launch-scan-step1-target-info.png" alt="Launch Scan step 1 - Target Info" width="85%">
   <br><em>Launch Scan — Step 1: Target Configuration</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/launch-scan-step2-scan-settings.png" alt="Launch Scan step 2 - Scan Settings" width="85%">
+  <img src="docs/images/launch-scan-step2-scan-settings.png" alt="Launch Scan step 2 - Scan Settings" width="85%">
   <br><em>Launch Scan — Step 2: Vulnerability Class &amp; Intensity Settings</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/launch-scan-step3-start-scan.png" alt="Launch Scan step 3 - Start Scan" width="85%">
+  <img src="docs/images/launch-scan-step3-start-scan.png" alt="Launch Scan step 3 - Start Scan" width="85%">
   <br><em>Launch Scan — Step 3: Review &amp; Launch</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/scanning-live.png" alt="Scanning Live page" width="85%">
+  <img src="docs/images/scanning-live.png" alt="Scanning Live page" width="85%">
   <br><em>Live Scan Telemetry — Real-time execution progress streamed via SignalR</em>
 </p>
 
@@ -204,27 +204,27 @@ The PostgreSQL schema spans **37 tables across 14 logical domains**, built with 
 <br>
 
 <p align="center">
-  <img src="docs/screenshots/scan-detail-findings.png" alt="Scan Detail - Discovered Findings" width="85%">
+  <img src="docs/images/scan-detail-findings.png" alt="Scan Detail - Discovered Findings" width="85%">
   <br><em>Scan Detail — Prioritized Vulnerability Findings</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/scan-detail-tasks.png" alt="Scan Detail - Scan Tasks" width="85%">
+  <img src="docs/images/scan-detail-tasks.png" alt="Scan Detail - Scan Tasks" width="85%">
   <br><em>Scan Detail — Individual Tool Execution Tasks</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/finding-detail.png" alt="Finding Detail - Overview" width="85%">
+  <img src="docs/images/finding-detail.png" alt="Finding Detail - Overview" width="85%">
   <br><em>Finding Detail — Technical Evidence &amp; Metadata</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/finding-detail-ai-analysis.png" alt="Finding Detail - AI Analysis" width="85%">
+  <img src="docs/images/finding-detail-ai-analysis.png" alt="Finding Detail - AI Analysis" width="85%">
   <br><em>Finding Detail — AI Root-Cause Analysis &amp; Code Remediation</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/finding-detail-history.png" alt="Finding Detail - History" width="85%">
+  <img src="docs/images/finding-detail-history.png" alt="Finding Detail - History" width="85%">
   <br><em>Finding Detail — Full Lifecycle &amp; Audit History</em>
 </p>
 
